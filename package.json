@@ -15,7 +15,7 @@
   "main": "",
   "types": "dist/index.d.ts",
   "bin": {
-    "example": "./bin/run.js"
+    "forge-cli": "./bin/run.js"
   },
   "files": [
     "/bin",
