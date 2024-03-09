@@ -4,10 +4,6 @@ Forge is a cli tool that provides a scaffolded approach to building nodejs,expre
 
 [![Version](https://img.shields.io/npm/v/forge-node-cli)](https://www.npmjs.com/package/forge-node-cli)
 
-<!-- toc -->
-* [**Features**](#features)
-* [**Usage**](#usage)
-* [**Commands**](#commands)
 
 # **Features**
 
@@ -60,7 +56,7 @@ EXAMPLES
   $ forge create-project myNewProject
 ```
 
-_See code: [src/commands/create-project/index.ts](https://github.com/kumar8317/forge-node/blob/v1.1.1/src/commands/create-project/index.ts)_
+_See code: [src/commands/create-project/index.ts](https://github.com/kumar8317/forge-node/blob/v1.3.0/src/commands/create-project/index.ts)_
 
 ## `forge help [COMMANDS]`
 
