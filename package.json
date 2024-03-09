@@ -1,6 +1,6 @@
 {
   "name": "forge-node-cli",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Forge a nodejs express project with server and database service layer",
   "keywords": [
     "nodejs",
