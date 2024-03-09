@@ -1,15 +1,15 @@
 {
-  "name": "example",
-  "version": "0.0.0",
-  "description": "oclif example Hello World CLI (ESM)",
+  "name": "forge-cli",
+  "version": "0.0.2",
+  "description": "Forge a nodejs express project with server and database service layer",
   "keywords": [
     "oclif"
   ],
-  "homepage": "https://github.com/kumar8317/example",
-  "bugs": "https://github.com/kumar8317/example/issues",
-  "repository": "kumar8317/example",
+  "homepage": "https://github.com/kumar8317/forge-node",
+  "bugs": "https://github.com/kumar8317/forge-node/issues",
+  "repository": "kumar8317/forge-node",
   "license": "MIT",
-  "author": "kumar8317 @kumar8317",
+  "author": "Ankit Kumar",
   "type": "module",
   "exports": "./lib/index.js",
   "main": "",
