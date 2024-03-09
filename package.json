@@ -1,6 +1,6 @@
 {
   "name": "forge-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Forge a nodejs express project with server and database service layer",
   "keywords": [
     "oclif"
